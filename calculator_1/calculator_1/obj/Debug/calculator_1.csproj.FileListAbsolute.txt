@@ -1,0 +1,11 @@
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\bin\Debug\calculator_1.exe.config
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\bin\Debug\calculator_1.exe
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\bin\Debug\calculator_1.pdb
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.csproj.AssemblyReference.cache
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.Form1.resources
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.Properties.Resources.resources
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.csproj.GenerateResource.cache
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.exe
+C:\Users\Anvar\source\repos\calculator_1\calculator_1\obj\Debug\calculator_1.pdb
